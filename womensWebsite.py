@@ -16,7 +16,7 @@ functions
     location of free clinics
     registration for medicaide
     link to online birth control
-    planned parenthood website (highlite some educational stuff-- visually do images that link to different aspects of the website)
+    planned parenthood website (highlight some educational stuff-- visually do images that link to different aspects of the website)
     child care resources
   connect them to opportunities through compiling data from different websites
     scholarship websites for continuing education
